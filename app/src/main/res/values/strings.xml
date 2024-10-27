@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">numberguesser</string>
+    <string name="Gamename">Kortinarvauspeli</string>
+    <string name="ohje1">Yritä arvata onko seuraava kortti</string>
+    <string name="ohje2">suurempi vai pienempi</string>
+    <string name="ohje3">jos arvasit oikein tai seuraava kortti</string>
+    <string name="ohje4">on sama tai ässä</string>
+    <string name="ohje5">saat pisteen</string>
+    <string name="ohje6">kun koko pakka on arvattu</string>
+    <string name="ohje7">näet lopulliset pisteesi ja osumaprosentin</string>
+    <string name="returninfo">Palaa</string>
+    <string name="Game">Korttipeli</string>
+    <string name="Startgame">Aloita Peli</string>
+    <string name="info">Info</string>
+    <string name="card_guesser">Card Guesser</string>
+    <string name="pulled">Nostettu kortti:</string>
+    <string name="guesslower">Arvaa pienempi</string>
+    <string name="guesshigher">Arvaa isompi</string>
+    <string name="points">Pisteet: %1$s</string>
+    <string name="gpercent">Arvausprosentti: </string>
+    <string name="drawn">Nostettu kortti:</string>
+    <string name="end">Peli päättyi! Lopputulos: %1$s</string>
+    <string name="deckout">Pakka loppui!</string>
+    <string name="perc">%</string>
+    <string name="newgame">Aloita uusi peli</string>
+    <string name="p_valikko">Päävalikko</string>
+    <string name="loading">Ladataan...</string>
+</resources>
